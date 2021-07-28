@@ -1,6 +1,6 @@
 .banner {
   text-align: center;
-  background-image: url('images/banner2.jpg');
+  background-image: url('./images/banner2.jpg');
 
   height: 100vh;
   display: flex;
