@@ -26,9 +26,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
-p {
+/* p {
   text-align: left;
-}
+} */
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -705,11 +705,6 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
-  text-align: left;
-}
-
-.btn-center.col-lg-6.pt-4.pt-lg-0 {
-  text-align: center;
 }
 
 .about .content .btn-learn-more {
