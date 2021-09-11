@@ -26,6 +26,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+/* p {
+  text-align: left;
+} */
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -569,6 +573,10 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
+.row {
+  justify-content: center;
+}
+
 section {
   padding: 60px 0;
   overflow: hidden;
@@ -595,6 +603,7 @@ section {
 .section-title p {
   margin-bottom: 0;
   font-style: italic;
+  text-align: center;
 }
 
 /*--------------------------------------------------------------
@@ -778,6 +787,7 @@ section {
   padding: 30px;
   border-radius: 10px;
   background: #fff;
+  justify-content: center;
 }
 
 .team .member .pic {
